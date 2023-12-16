@@ -1,0 +1,13 @@
+Finally I am Done Coding Zerodha's Landing Page
+
+--> It took me whole 8hrs of continuous coding to 
+build this page from scratch. 
+--> I have only made Frontend until now, and that 
+also of Zerodha's Landing Page's 1st view only.
+--> Until now this web page is made using only 
+raw HTML and CSS. 
+--> The landing page is fully responsive, and it 
+is perfectly usable for all screen sizes. 
+
+P.S.: While building this web page I learnt I a lot 
+of new things, and it was totally worth it. 
